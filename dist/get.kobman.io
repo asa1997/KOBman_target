@@ -5,7 +5,7 @@
 
 # Global variables
 KOBMAN_VERSION="0.0.1"
-KOB_ARCHIVE_DOWLOAD_REPO="KOBman_website"
+KOB_ARCHIVE_DOWLOAD_REPO="KOBman_target_repo"
 KOBMAN_PLATFORM=$(uname)
 KOBMAN_SERVICE="https://raw.githubusercontent.com"
 # KOBMAN_NAMESPACE="EtricKombat"
