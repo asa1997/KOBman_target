@@ -4,12 +4,12 @@
 #Install: stable
 
 # Global variables
-KOBMAN_VERSION="test-tag11"
+KOBMAN_VERSION="test-tag14"
 KOB_ARCHIVE_DOWLOAD_REPO="@KOB_ARCHIVE_DOWLOAD_REPO@"
 KOBMAN_PLATFORM=$(uname)
 KOBMAN_SERVICE="https://raw.githubusercontent.com"
 # KOBMAN_NAMESPACE="EtricKombat"
-KOBMAN_NAMESPACE="asa1997"
+KOBMAN_NAMESPACE="hyperledgerkochi"
 
 
 
